@@ -1,47 +1,73 @@
-<h1 align="center">Hi 👋, I'm RX-NAFIJ</h1>
-<h3 align="center">💻 Developer | 🔐 Cyber Security Enthusiast | 🚀 TEAM-RX</h3>
+<h1 align="center">👋 Hi, I'm RX-NAFIJ</h1>
+
+<h3 align="center">💻 Developer • 🔐 Cyber Security Enthusiast • 🚀 TEAM-RX</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;TEAM-RX;Cyber+Security+Enthusiast;Web+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;TEAM-RX;Cyber+Security+Enthusiast;Python+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🔭 Working on **TEAM-RX**
-- 🌱 Learning **Python, HTML, CSS & JavaScript**
-- 🔐 Interested in **Cyber Security**
-- 📍 Bangladesh 🇧🇩
+- 🐍 Python Developer
+- 🌐 HTML • CSS • JavaScript
+- 🔐 Learning Cyber Security
+- 🇧🇩 Bangladesh
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RX-NAFIJ&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RX-NAFIJ&show_icons=true&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RX-NAFIJ&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RX-NAFIJ&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RX-NAFIJ&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RX-NAFIJ&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### 👀 Visitor Count
+# 🏆 GitHub Trophy
 
-![](https://komarev.com/ghpvc/?username=RX-NAFIJ&label=Profile+Views&color=blue&style=for-the-badge)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RX-NAFIJ&theme=tokyonight&row=1"/>
+</p>
 
 ---
 
-### 💬 Quote
+# 👀 Profile Views
 
-> "Code • Learn • Build • Repeat"
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RX-NAFIJ&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-<h3 align="center">⚡ Thanks for Visiting ⚡</h3>
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="https://github.com/RX-NAFIJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Code • Learn • Build • Repeat ⚡
+
+</p>
