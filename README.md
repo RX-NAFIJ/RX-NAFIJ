@@ -53,7 +53,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RX-NAFIJ/RX-NAFIJ/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/RX-NAFIJ/RX-NAFIJ/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </p>
 
 ---
